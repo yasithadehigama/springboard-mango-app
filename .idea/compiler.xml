@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboard-mangoapp-starter" />
+        <module name="springboard-mangoapp-user-management" />
+        <module name="springboard-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboard-app-starter" target="1.5" />
+      <module name="springboard-mango-app" target="1.6" />
+      <module name="springboard-mangoapp-core" target="1.6" />
+      <module name="springboard-mangoapp-core (2)" target="1.5" />
+      <module name="springboard-mangoapp-parent" target="1.5" />
+      <module name="springboard-mangoapp-starter" target="1.6" />
+      <module name="springboard-mangoapp-user-management" target="1.5" />
+      <module name="springboard-user" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

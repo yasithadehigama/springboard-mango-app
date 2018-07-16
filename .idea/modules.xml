@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboard-mango-app.iml" filepath="$PROJECT_DIR$/springboard-mango-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboard-mangoapp-parent/springboard-mangoapp-starter/springboard-mangoapp-starter.iml" filepath="$PROJECT_DIR$/springboard-mangoapp-parent/springboard-mangoapp-starter/springboard-mangoapp-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboard-mangoapp-core/springboard-mangoapp-user-management/springboard-mangoapp-user-management.iml" filepath="$PROJECT_DIR$/springboard-mangoapp-core/springboard-mangoapp-user-management/springboard-mangoapp-user-management.iml" />
+    </modules>
+  </component>
+</project>
